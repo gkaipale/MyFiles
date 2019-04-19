@@ -1,348 +1,187 @@
 {
-	"Wallpapers":
+	"dwallpapers":
 		[
 
 					{
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_1.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_1_small.png",
-                        "name": "Wall_1"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_1_small.png",
+                        "name": "dwall_1"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_2.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_2_small.png",
-                        "name": "Wall_2"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_2_small.png",
+                        "name": "dwall_2"
                     },
               	    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_3.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_3_small.png",
-                        "name": "Wall_3"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_3_small.png",
+                        "name": "dwall_3"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_4.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_4_small.png",
-                        "name": "Wall_4"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_4_small.png",
+                        "name": "dwall_4"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_5.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_5_small.png",
-                        "name": "Wall_5"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_5_small.png",
+                        "name": "dwall_5"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_6.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_6_small.png",
-                        "name": "Wall_6"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_6_small.png",
+                        "name": "dwall_6"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_7.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_7_small.png",
-                        "name": "Wall_7"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_7.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_7_small.png",
+                        "name": "dwall_7"
                     },
 				    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_8.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_8_small.png",
-                        "name": "Wall_8"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_8.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_8_small.png",
+                        "name": "dwall_8"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_9.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_9_small.png",
-                        "name": "Wall_9"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_9.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_9_small.png",
+                        "name": "dwall_9"
                     },
 					              	    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_10.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_10_small.png",
-                        "name": "Wall_10"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_10.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_10_small.png",
+                        "name": "dwall_10"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_11.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_11_small.png",
-                        "name": "Wall_11"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_11.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_11_small.png",
+                        "name": "dwall_11"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_12.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_12_small.png",
-                        "name": "Wall_12"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_12.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_12_small.png",
+                        "name": "dwall_12"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_13.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_13_small.png",
-                        "name": "Wall_13"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_13.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_13_small.png",
+                        "name": "dwall_13"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_14.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_14_small.png",
-                        "name": "Wall_14"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_14.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_14_small.png",
+                        "name": "dwall_14"
                     },
 					                    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_15.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_15_small.png",
-                        "name": "Wall_15"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_15.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_15_small.png",
+                        "name": "dwall_15"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_16.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_16_small.png",
-                        "name": "Wall_16"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_16.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_16_small.png",
+                        "name": "dwall_16"
                     },
 					{
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_17.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_17_small.png",
-                        "name": "Wall_17"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_17.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_17_small.png",
+                        "name": "dwall_17"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_18.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_18_small.png",
-                        "name": "Wall_18"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_18.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_18_small.png",
+                        "name": "dwall_18"
                     },
 					                    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_19.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_19_small.png",
-                        "name": "Wall_19"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_19.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_19_small.png",
+                        "name": "dwall_19"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_20.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_20_small.png",
-                        "name": "Wall_20"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_20.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_20_small.png",
+                        "name": "dwall_20"
                     },
 										                    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_21.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_21_small.png",
-                        "name": "Wall_21"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_21.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_21_small.png",
+                        "name": "dwall_21"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_22.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_22_small.png",
-                        "name": "Wall_22"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_22.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_22_small.png",
+                        "name": "dwall_22"
                     },
 					{
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_23.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_23_small.png",
-                        "name": "Wall_23"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_23.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_23_small.png",
+                        "name": "dwall_23"
                     },
                     {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_24.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_24_small.png",
-                        "name": "Wall_24"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_24.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_24_small.png",
+                        "name": "dwall_24"
                     },
 					                    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_25.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_25_small.png",
-                        "name": "Wall_25"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_25.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_25_small.png",
+                        "name": "dwall_25"
                     },
 					{
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_26.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_26_small.png",
-                        "name": "Wall_26"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_26.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_26_small.png",
+                        "name": "dwall_26"
                     },
 										                    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_27.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_27_small.png",
-                        "name": "Wall_27"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_27.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_27_small.png",
+                        "name": "dwall_27"
                     },
 					{
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_28.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_28_small.png",
-                        "name": "Wall_28"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_28.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_28_small.png",
+                        "name": "dwall_28"
                     },
 															                    {
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_29.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_29_small.png",
-                        "name": "Wall_29"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_29.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_29_small.png",
+                        "name": "dwall_29"
                     },
 					{
                         "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_30.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_30_small.png",
-                        "name": "Wall_30"
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_30.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_30_small.png",
+                        "name": "dwall_30"
                     },
-										{
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_31.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_31_small.png",
-                        "name": "Wall_31"
-                    },
-										{
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_32.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_32_small.png",
-                        "name": "Wall_32"
-                    },
-					{
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_33.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_33_small.png",
-                        "name": "Wall_33"
-                    },
-					{
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_001.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_001_small.png",
-                        "name": "Wall_001"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_002.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_002_small.png",
-                        "name": "Wall_002"
-                    },
-              	    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_003.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_003_small.png",
-                        "name": "Wall_003"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_004.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_004_small.png",
-                        "name": "Wall_004"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_005.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_005_small.png",
-                        "name": "Wall_005"
-                    },
-				    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_01.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_01_small.png",
-                        "name": "Wall_01"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_02.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_02_small.png",
-                        "name": "Wall_02"
-                    },
-              	    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_03.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_03_small.png",
-                        "name": "Wall_03"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_04.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_04_small.png",
-                        "name": "Wall_04"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_05.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_05_small.png",
-                        "name": "Wall_05"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_06.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_06_small.png",
-                        "name": "Wall_06"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_07.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_07_small.png",
-                        "name": "Wall_07"
-                    },
-              	    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_08.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_08_small.png",
-                        "name": "Wall_08"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_09.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_09_small.png",
-                        "name": "Wall_09"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_010.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_010_small.png",
-                        "name": "Wall_010"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_011.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_011_small.png",
-                        "name": "Wall_011"
-                    },					
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_012.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_012_small.png",
-                        "name": "Wall_012"
-                    },
-					{
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_0001.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_0001_small.png",
-                        "name": "Wall_0001"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_0002.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_0002_small.png",
-                        "name": "Wall_0002"
-                    },
-              	    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_0003.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_0003_small.png",
-                        "name": "Wall_0003"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_0004.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_0004_small.png",
-                        "name": "Wall_0004"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_0005.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_0005_small.png",
-                        "name": "Wall_0005"
-						  },
-					{
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_021.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_021_small.png",
-                        "name": "Wall_021"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "http://www.geokstarter.com/data/documents/darkonis/Wall_022.png",
-                        "thumbUrl": "http://www.geokstarter.com/data/documents/darkonis/wall_022_small.png",
-                        "name": "Wall_022"
-                    }
+
 		]
 }
