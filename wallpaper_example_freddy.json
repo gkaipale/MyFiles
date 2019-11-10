@@ -120,19 +120,8 @@
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall20.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall20_small.png",
                         "name": "2wall20"
-				    },
-		            {
-                        "author": "Gkaipale",
-                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_44.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_44_small.png",
-                        "name": "wall_44"
-                    },
-                    {
-                        "author": "Gkaipale",
-                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_45.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_45_small.png",
-                        "name": "wall_45"
-                    }
+				    }
+
 
 		]
 }
