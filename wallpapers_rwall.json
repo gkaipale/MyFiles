@@ -1,7 +1,48 @@
 {
 	"Wallpapers":
 		[           
-
+					{
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall23.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall23_small.png",
+                        "name": "rwall23"
+                    },
+				    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall22.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall22_small.png",
+                        "name": "rwall22"
+                    },	
+					{
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall21.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall21_small.png",
+                        "name": "rwall21"
+                    },
+                    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall20.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall20_small.png",
+                        "name": "rwall20"
+                    },
+              	    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall19.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall19_small.png",
+                        "name": "rwall19"
+                    },
+                    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall18.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall18_small.png",
+                        "name": "rwall18"
+                    },
+                    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall17.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall17_small.png",
+                        "name": "rwall17"
+                    },
               	    {
                         "author": "Gkaipale",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall16.png",
@@ -73,7 +114,8 @@
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall5.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall5_small.png",
                         "name": "rwall5"
-                    },	{
+                    },	
+					{
                         "author": "Gkaipale",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall4.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master//rwall4_small.png",
