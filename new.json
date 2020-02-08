@@ -229,7 +229,7 @@
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall10.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall10_small.png",
                         "name": "bswall10"
-                    },
+				    },
 					{
                         "author": "Gkaipale",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall9.png",
@@ -254,22 +254,28 @@
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall6_small.png",
                         "name": "bswall6"
 				    },
-                   {
+										{
                         "author": "Gkaipale",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall5.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall5_small.png",
                         "name": "bswall5"
                     },
-		           {
+                   {
                         "author": "Gkaipale",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall4.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall4_small.png",
                         "name": "bswall4"
+                    },
+		           {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall3_small.png",
+                        "name": "bswall3"
 				    },
                    {
                         "author": "Gkaipale",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall2.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall3_small.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/bswall2_small.png",
                         "name": "bswall2"
                     },
 					{
