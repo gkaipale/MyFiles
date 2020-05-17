@@ -14,122 +14,102 @@
 		"collections": "featured,landscapes,people"
 	},
 	      {
-		"name": "ShotA",
+		"name": "Wall_",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_c.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_c_small.png",
 		"collections": "featured,landscapes,people"
 	},
 	      {
-		"name": "ShotA",
+		"name": "Wall_D",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_d.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_d_small.png",
 		"collections": "featured,landscapes,people"
 	},
 	      {
-		"name": "ShotA",
+		"name": "Wall_E",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_e.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_e_small.png",
+		"collections": "featured,landscapes,people"
+	},
+		      {
+		"name": "Wall_F",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_f.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_f_small.png",
+		"collections": "featured,landscapes,people"
+	},
+		      {
+		"name": "Wall_G",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_g.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_g_small.png",
+		"collections": "featured,landscapes,people"
+	},
+		      {
+		"name": "Wall_H",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_h.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_h_small.png",
+		"collections": "featured,landscapes,people"
+	},
+			      {
+		"name": "Wall_I",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_i.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_i_small.png",
+		"collections": "featured,landscapes,people"
+	},
+			      {
+		"name": "Wall_J",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_j.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_j_small.png",
+		"collections": "featured,landscapes,people"
+	},
+			      {
+		"name": "Wall_K",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_k.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_k_small.png",
+		"collections": "featured,landscapes,people"
+	},
+				      {
+		"name": "Wall_L",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_l.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_l_small.png",
+		"collections": "featured,landscapes,people"
+	},
+				      {
+		"name": "Wall_M",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_m.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_m_small.png",
+		"collections": "featured,landscapes,people"
+	},
+				      {
+		"name": "Wall_N",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_n.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_n_small.png",
+		"collections": "featured,landscapes,people"
+	},
+				      {
+		"name": "Wall_O",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_o.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_o_small.png",
 		"collections": "featured,landscapes,people"
 	},
 	{
-		"name": "ShotB",
+		"name": "Wall_F",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
 		"dimensions": "3200x2560",
 		"collections": "people,city",
 		"downloadable": false
-	},
-	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
-	},
-	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
-	},
-	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
-	},
-	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
-	},
-	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
-	},
-	{
-		"name": "Wallsplash 5",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
-	},
-	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
-	},
-	{
-		"name": "Wallsplash 7",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-		"thumbnail": "https://via.placeholder.com/500",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
-	},
-	{
-		"name": "Wallsplash 8",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "food"
-	},
-	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
 	}
 ]
