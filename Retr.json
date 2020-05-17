@@ -33,8 +33,8 @@
 	{
 		"name": "Wallsplash 1",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,city",
@@ -43,8 +43,8 @@
 	{
 		"name": "Wallsplash 2",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b_small.png",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,food"
@@ -52,8 +52,8 @@
 	{
 		"name": "Wallsplash 3",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_c.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_c_small.png",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+		"thumbnail": "https://via.placeholder.com/450",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,food,people"
@@ -61,8 +61,8 @@
 	{
 		"name": "Wallsplash 4",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_d.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_d_small.png",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people,city"
@@ -70,8 +70,8 @@
 	{
 		"name": "Wallsplash 5",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_e.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_e_small.png",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes"
@@ -79,8 +79,8 @@
 	{
 		"name": "Wallsplash 6",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_f.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_f_small.png",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,people"
@@ -88,8 +88,8 @@
 	{
 		"name": "Wallsplash 7",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_g.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_g_small.png"
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+		"thumbnail": "https://via.placeholder.com/500",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people"
@@ -97,77 +97,12 @@
 	{
 		"name": "Wallsplash 8",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_h.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_h_small.png"
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+		"thumbnail": "https://via.placeholder.com/150",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "food"
 	},
-		{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_i.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_i_small.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
-	},
-	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_j.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_j_small.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
-	},
-	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_k.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_k_small.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
-	},
-	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_l.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_l_small.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
-	},
-	{
-		"name": "Wallsplash 5",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_m.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_m_small.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
-	},
-	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_n.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_n_small.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
-	},
-		{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_o.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_o_small.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
-	},
-	
 	{
 		"name": "Webp Image",
 		"author": "unknown",
