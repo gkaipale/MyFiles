@@ -1,5 +1,33 @@
 [
       {
+		"name": "Wall_A",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"collections": "featured,landscapes,people"
+	},
+	      {
+		"name": "Wall_B",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b_small.png",
+		"collections": "featured,landscapes,people"
+	},
+	      {
+		"name": "ShotA",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"collections": "featured,landscapes,people"
+	},
+	      {
+		"name": "ShotA",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"collections": "featured,landscapes,people"
+	},
+	      {
 		"name": "ShotA",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
