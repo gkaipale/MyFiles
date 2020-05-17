@@ -3,12 +3,16 @@
 		"name": "Wall A",
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
 		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
 	},
       {
-		"name": "Wall B",
+		"name": "Wall A",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b.png",
 		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b_small.png",
+		"collections": "featured,landscapes,people"
 	},
 	{
 		"name": "ShotB",
