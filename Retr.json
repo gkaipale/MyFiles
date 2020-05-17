@@ -1,8 +1,8 @@
 [
       {
 		"name": "Wall A",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "landscapes"
@@ -10,8 +10,8 @@
       {
 		"name": "Wall A",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b.png",
-		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_b_small.png",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
 		"collections": "featured,landscapes,people"
 	},
 	{
