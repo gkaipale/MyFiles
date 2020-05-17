@@ -1,14 +1,15 @@
 [
       {
-		"name": "Wall A",
+		"name": "Webp Image",
+		"author": "unknown",
 		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/4.webp",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "landscapes"
 	},
       {
-		"name": "Wall A",
+		"name": "ShotA",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
 		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a_small.png",
