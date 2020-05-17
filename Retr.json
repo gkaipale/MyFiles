@@ -14,7 +14,7 @@
 		"collections": "featured,landscapes,people"
 	},
 	      {
-		"name": "Wall_",
+		"name": "Wall_C",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_c.png",
 		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_c_small.png",
@@ -103,13 +103,19 @@
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_o.png",
 		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_o_small.png",
 		"collections": "featured,landscapes,people"
-	},
-	{
-		"name": "Wall_F",
+	}
+					      {
+		"name": "Wall_P",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": false
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_p.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_p_small.png",
+		"collections": "featured,landscapes,people"
+	},
+					      {
+		"name": "Wall_Q",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_q.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_q_small.png",
+		"collections": "featured,landscapes,people"
 	}
 ]
