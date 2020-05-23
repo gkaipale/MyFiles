@@ -229,5 +229,47 @@
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_1.png",
 		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_1_small.png",
 		"collections": "featured,landscapes,people"
+		},
+					      {
+		"name": "Wall_Ergon1",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_32.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_32_small.png",
+		"collections": "featured,landscapes,people"
+	},
+						      {
+		"name": "Wall_Ergon1",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_34.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_34_small.png",
+		"collections": "featured,landscapes,people"
+	},
+							      {
+		"name": "Wall_Ergon1",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon1.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon1_small.png",
+		"collections": "featured,landscapes,people"
+	},
+								      {
+		"name": "Wall_Ergon2",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon2.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon2_small.png",
+		"collections": "featured,landscapes,people"
+	},
+									      {
+		"name": "Wall_Ergon3",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon3.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon3_small.png",
+		"collections": "featured,landscapes,people"
+	},
+										      {
+		"name": "Wall_Ergon4",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon4.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon4_small.png",
+		"collections": "featured,landscapes,people"
 	}
 ]
