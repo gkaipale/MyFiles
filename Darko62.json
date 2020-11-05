@@ -1,35 +1,5 @@
 [
-      {
-		"name": "Nature",
-		"author": "",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "1280x2048",
-		"copyright": "",
-		"collections": "landscapes"
-	},
-      {
-		"name": "ShotA",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
-	},
-	{
-		"name": "ShotB",
-		"author": "",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "1280x2048",
-		"collections": "people,city",
-		"downloadable": false
-	},
-	{
-		"author": "Shot C",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
-	},
+ 
 	{
 		"name": "Wall 1",
 		"author": "wall",
@@ -156,5 +126,36 @@
 		"dimensions": "1280x2048",
 		"copyright": "Unknown",
 		"collections": "landscapes"
-	}
+	},
+	                   {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_15.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_15_small.png",
+                        "name": "wall_15"
+                    },
+                    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_14.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_14_small.png",
+                        "name": "wall_14"
+				    },
+                   {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_13.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_13_small.png",
+                        "name": "wall_13"
+                    },
+                    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_12.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_12_small.png",
+                        "name": "wall_12"
+                    },		
+					{
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_11.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_11_small.png",
+                        "name": "wall_11"
+				    }
+	
 ]
