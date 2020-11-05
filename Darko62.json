@@ -127,6 +127,42 @@
 		"copyright": "Unknown",
 		"collections": "landscapes"
 	},
+		{
+		"name": "Wall 15",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_15.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_15_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wall 16",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_16.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_16_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wall 17",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_17.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_17_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Wall 18",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_18.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/D5Wall_18_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
 	                   {
                         "author": "Gkaipale",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_15.png",
