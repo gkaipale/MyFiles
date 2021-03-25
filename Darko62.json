@@ -450,5 +450,47 @@
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/W1.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/W1_small.png",
                         "name": "W1"
+                    },
+										{
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_1_small.png",
+                        "name": "d3_1"
+				    },
+										{
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_2_small.png",
+                        "name": "d3_2"
+                    },
+                   {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_7_small.png",
+                        "name": "d3_3"
+                    },
+		           {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_4_small.png",
+                        "name": "d3_7"
+				    },
+                   {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_5_small.png",
+                        "name": "d3_5"
+                    },
+					{
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_6_small.png",
+                        "name": "d3_6"
+				    },
+                   {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_7.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/d3_7_small.png",
+                        "name": "d3_7"
                     }
         ]
