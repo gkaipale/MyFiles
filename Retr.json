@@ -1,5 +1,40 @@
 [
-      {
+        {
+		"name": "Tetragon_1",
+		"author": "Gkaipale",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr1.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr1_small.png",
+		"collections": "Retro"
+	},
+	      {
+		"name": "Tetragon_2",
+		"author": "Gkaipale",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr2.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr2_small.png",
+		"collections": "Retro"
+	},
+	      {
+		"name": "Tetragon_3",
+		"author": "Gkaipale",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr3.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr3_small.png",
+		"collections": "Retro"
+	},
+	      {
+		"name": "Tetragon_4",
+		"author": "Gkaipale",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr4.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr4_small.png",
+		"collections": "Retro"
+	},
+	      {
+		"name": "Tetragon_5",
+		"author": "Gkaipale",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr5.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/retr5_small.png",
+		"collections": "Retro"
+	},
+   {
 		"name": "Wall_A",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_a.png",
