@@ -180,6 +180,34 @@
 		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris16.png",
 		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris16_small.png",
 		"collections": "featured,landscapes,people"
+	},
+					      {
+		"name": "Wall_L",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris17.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris17_small.png",
+		"collections": "featured,landscapes,people"
+	},
+				      {
+		"name": "Wall_M",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris18.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris18_small.png",
+		"collections": "featured,landscapes,people"
+	},
+				      {
+		"name": "Wall_N",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris19.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris19_small.png",
+		"collections": "featured,landscapes,people"
+	},
+				      {
+		"name": "Wall_O",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris20.png",
+		"thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/eris20_small.png",
+		"collections": "featured,landscapes,people"
 	}
 		
 ]
