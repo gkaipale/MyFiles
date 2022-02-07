@@ -62,6 +62,50 @@
 		"dimensions": "1280x2048",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people"
+	},	{
+		"name": "Wall 8",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood3_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wall 9",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood4_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wall 10",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood5_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wall 11",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood6_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wall 12",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood7.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wood7_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
 	}
 	
 		
