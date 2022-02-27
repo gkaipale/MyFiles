@@ -1,14 +1,5 @@
 [
-  		  		{
-		"name": "Wall 1",
-		"author": "wall",
-                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold_small.png",
-		"dimensions": "1280x2048",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
-	},
+
 		{
 		"name": "Wall 1",
 		"author": "wall",
