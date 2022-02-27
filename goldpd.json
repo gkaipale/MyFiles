@@ -1,0 +1,139 @@
+[
+  		  		{
+		"name": "Wall 1",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+		{
+		"name": "Wall 1",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold1_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+	{
+		"name": "Wall 2",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold2_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "Wall 3",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold3_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wall 4",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold4_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wall 5",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold5_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wall 6",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold6_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wall 7",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold7.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold7_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},	{
+		"name": "Wall 8",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold8.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold8_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wall 9",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold9.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold9_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wall 10",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold10.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold10_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+		{
+		"name": "Wall 11",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold11.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold11_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},	{
+		"name": "Wall 12",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold12.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold12_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wall 13",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold13.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold13_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wall 14",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold14.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/gold14_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	}
+	
+		
+]
