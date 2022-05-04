@@ -1,0 +1,94 @@
+[
+  		  		{
+		"name": "Wall 1",
+		"author": "wall",
+                        "url": "https://i.postimg.cc/Js0V0vym/Olive1.png",
+                        "thumbUrl": "https://i.postimg.cc/sQh3X8N1/Olive1-small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+	{
+		"name": "Wall 2",
+		"author": "wall",
+                        "url": "https://i.postimg.cc/R3jzjdZm/Olive2.png",
+                        "thumbUrl": "https://i.postimg.cc/ThnRvzb4/Olive2-small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "Wall 3",
+		"author": "wall",
+                        "url": "https://i.postimg.cc/xqGS4KDr/Olive3.png",
+                        "thumbUrl": "https://i.postimg.cc/kVZn79wk/Olive3-small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+
+	{
+		"name": "Wall 4",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive4_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wall 5",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive5_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wall 6",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive6_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wall 7",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive7.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive7_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wall 8",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive8.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive8_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Wall 9",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive9.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive9_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+		{
+		"name": "Wall 10",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive10.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/olive10_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	}
+]
