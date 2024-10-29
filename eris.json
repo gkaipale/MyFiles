@@ -1,5 +1,194 @@
 [
-  		{
+  	
+{
+		"name": "Wall 1",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall1_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
+	},
+	{
+		"name": "Wall 2",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall2_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,food"
+	},
+	{
+		"name": "Wall 3",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall3_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,food,people"
+	},
+	{
+		"name": "Wall 4",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall4_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people,city"
+	},
+	{
+		"name": "Wall 5",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall5_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wall 6",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall6_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wall 7",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall7.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall7_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wall 8",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall8.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall8_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Wall 8",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall9.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall9_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+		{
+		"name": "Wall 10",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall10.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall10_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
+	},
+	{
+		"name": "Wall 11",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall11.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall11_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wall 12",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall12.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall12_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wall 13",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall13.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall13_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Wall 14",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall14.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall14_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+		{
+		"name": "Wall 15",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall15.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall15_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,people"
+	},
+	{
+		"name": "Wall 16",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall16.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall16_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "landscapes,people"
+	},
+	{
+		"name": "Wall 17",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall17.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall17_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Free (do whatever you want)",
+		"collections": "food"
+	},
+	{
+		"name": "Wall 18",
+		"author": "wall",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall18.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall18_small.png",
+		"dimensions": "1280x2048",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+
+                    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall19.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall19_small.png",
+                        "name": "2wall19"
+                    },
+              	    {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall20.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall20_small.png",
+                        "name": "2wall20"
+                    },
+										{
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall21.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall21_small.png",
+                        "name": "2wall21"
+				    },
+                   {
+                        "author": "Gkaipale",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall22.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/2wall22_small.png",
+                        "name": "2wall22"
+                    },	
+		{
 		"name": "Wall 1",
 		"author": "wall",
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/cwall_1.png",
@@ -1087,7 +1276,96 @@
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_33.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_33_small.png",
                         "name": "wall_33"
-                    }	,				
+                    }	,	
+	{
+		"name": "Wall 8",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_34.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_34_small.png"
+
+	},
+	{
+		"name": "Wall 9",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_35.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_35_small.png"
+
+	},
+	{
+		"name": "Wall 5",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_36.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_36_small.png"
+	},
+	{
+		"name": "Wall 6",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_27.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_37_small.png"
+
+	},
+	{
+		"name": "Wall 7",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_38.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_38_small.png"
+
+	},
+	{
+		"name": "Wall 8",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_39.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_39_small.png"
+
+	},
+	{
+		"name": "Wall 9",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_40.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_40_small.png"
+
+	},
+		{
+		"name": "Wall 10",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_41.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_41_small.png"
+
+	},
+		{
+		"name": "Wall 5",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_42.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_42_small.png"
+	},
+	{
+		"name": "Wall 6",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_43.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_43_small.png"
+
+	},
+	{
+		"name": "Wall 7",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_44.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_44_small.png"
+
+	},
+	{
+		"name": "Wall 8",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_45.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_45_small.png"
+
+	},
+	{
+		"name": "Wall 9",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_46.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_46_small.png"
+
+	},
 
 	{
 		"name": "Wall 1",
