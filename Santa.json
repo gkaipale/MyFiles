@@ -45,7 +45,39 @@
                         "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa7.png",
                         "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa7_small.png"
 
-	}
+	},
+	 {
+		"name": "Wall 8",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa8.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa8_small.png"
+	},
+	{
+		"name": "Wall 9",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa9.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa9_small.png"
+
+	},
+	{
+		"name": "Wall 10",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa10.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa10_small.png"
+	},
+	{
+		"name": "Wall 11",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa11.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa11_small.png"
+
+	},
+	{
+		"name": "Wall 12",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa12.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/santa12_small.png"
+	},
 
 
         ]
