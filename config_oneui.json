@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.2",
+  "latestVersionCode": 3,
+  "disableRequest": {
+    "below": 3,
+    "on": "1 2"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.oneui7d.iconpack",
+  "releaseNotes": [
+	"Added 40 icons"
+  ]
+}
